@@ -1,0 +1,29 @@
+.aboutMainContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.aboutrightimage{
+    height: 32rem;
+    width: 42rem;    
+    margin: 30px -200rem 0 0;
+}
+.aboutleftContainer{
+    text-shadow: 1px 1px;
+    font-size: 29px;
+    height: 10rem ;
+    width: 30rem;
+    line-height: 1.5;
+    word-spacing: 4px;
+    margin: 0px 260px 0 0;
+}
+.aboutBtn{
+    border-radius: 15px;
+    height: 30px;
+    width: 109px;
+    color: black;
+    border: 2px solid rgb(12, 28, 86);
+}
+.aboutBtn a{
+    text-decoration: none;
+}

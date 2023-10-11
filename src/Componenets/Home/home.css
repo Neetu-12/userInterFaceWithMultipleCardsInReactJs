@@ -1,0 +1,33 @@
+.homeMainContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.rightHomeimage{
+    height: 33rem;
+    width: 42rem;    
+    margin: 29px -290rem 0 0;
+
+}
+.leftContainer{
+    text-shadow: 1px 1px;
+    font-size: 29px;
+    height: 10rem ;
+    width: 30rem;
+    line-height: 1.5;
+    word-spacing: 4px;
+    margin: 0px 260px 0 0;
+}
+.homeBtn{
+    border-radius: 15px;
+    height: 30px;
+    width: 109px;
+    color: black;
+    border: 2px solid rgb(12, 28, 86);
+}
+.neetu{
+    color: rgb(65, 89, 210);
+}
+.homeBtn a{
+    text-decoration: none;
+}

@@ -1,0 +1,29 @@
+.tableContainer{
+    display: grid;
+    grid-template-columns: 20vw 20vw 20vw 20vw ;
+    padding: 10px;
+    margin: 20px;
+    grid-column-gap:70px;
+}
+.card img {
+    width: 18vw;
+    border-radius: 10px;
+}
+.card {
+    width: 18vw;
+    min-height: 20vh;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 5px 5px 15px 5px;
+}
+.btntag{
+margin: 10px;
+padding: 10px;
+border-radius: 10px;
+cursor: pointer;
+}
+.servicesContainer {
+    text-align: center;
+    width: 100%;
+}

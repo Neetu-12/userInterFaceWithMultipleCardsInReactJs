@@ -1,0 +1,36 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.NavContainer {
+    height: 66px;
+    background-color: lightgray;
+    font-size: large;
+}
+
+.ulNav {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    float: right;
+    gap: 3rem;
+    margin: 24px 6rem;
+}
+
+.neetuSah {
+    margin: 6px 0 0 72px;
+    float: left;
+    font-size: 33px;
+    font-weight: bold;
+}
+
+.liNav a{
+    text-decoration: none;
+    color: black;
+    font-size: 23px;
+}
+
+.liNav a:hover{
+    color: goldenrod;
+}

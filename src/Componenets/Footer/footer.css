@@ -1,0 +1,8 @@
+.footerMainContainer{
+    width: 100%;
+    background-color: hsl(0, 4%, 67%);
+    margin-bottom: 0;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+}
